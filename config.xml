@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+xmlns:gap="http://phonegap.com/ns/1.0"
+id="org.lucasts.anotation"
+version="1.0.0">
+
+<name>
+    Anotation App
+</name>
+
+<description>
+    Espaço para anotações
+</description>
+
+<author email="lucasts93@gmail.com">
+    Lucas T. Sampaio 
+</author>
+<icon src="icon_app.png"/>
+
+</widget>
